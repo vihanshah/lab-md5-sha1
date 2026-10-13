@@ -60,7 +60,6 @@ c:/meow/css/
 │   ├── package.json
 │   ├── index.html
 │   └── vite.config.js
-├── Pract-MD5VsSHA-1.pdf    # College Practical Reference PDF
 └── README.md
 ```
 
